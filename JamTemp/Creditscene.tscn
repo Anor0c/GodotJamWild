@@ -1,0 +1,10 @@
+[gd_scene format=2]
+
+[node name="Creditscene" type="Node2D"]
+
+[node name="TextEdit" type="TextEdit" parent="."]
+margin_left = 178.0
+margin_top = 84.0
+margin_right = 408.0
+margin_bottom = 132.0
+text = "Credits: moi, laurie"
