@@ -11,7 +11,7 @@ config_version=4
 [application]
 
 config/name="Jam Temp"
-run/main_scene="res://MainMenuScene.tscn"
+run/main_scene="res://Assets/MainMenuScene.tscn"
 config/icon="res://icon.png"
 
 [gui]
